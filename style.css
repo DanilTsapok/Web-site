@@ -322,14 +322,14 @@ body{
     text-decoration: none;
     cursor: pointer;
     color: white;
-    border:3px solid rgb(192, 131, 17);
-    background-color: rgb(192, 131, 17);
+    border:3px solid orange;
+    background-color: orange;
     padding: 15px;
     border-radius: 30px;
 
 }
 .button:hover{
-    color:rgb(192, 131, 17 );
+    color:orange;
     background-color: transparent;
 }
 .card-wrapper{
@@ -504,7 +504,7 @@ input::placeholder{
     line-height: 75px;
     font-size: 1.5em;
     text-align: center;
-    transition: 0.5s ;
+    transition: 0.3s ;
     color: black;
 }
 .navigation ul li:hover a .icon{
@@ -517,7 +517,7 @@ input::placeholder{
     font-weight: 400;
     font-size: 0.75em;
     letter-spacing: 0.05em;
-    transition: 0.5s;
+    transition: 0.3s;
     opacity: 0;
     transform: translateY(20px);
 
